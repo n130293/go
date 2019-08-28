@@ -1,0 +1,16 @@
+***********git hub commands**************
+cd ~
+cd Desktop
+git clone https://github.com/n130293/Testing.git
+
+cd Testing
+
+git status
+
+git add . 
+
+git commit -m "Initial commit"
+
+
+
+
